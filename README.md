@@ -13,3 +13,6 @@ In order to get going with your Pico, you will need to follow the installation p
 The Pico currently supports code written in C/C++ and MicroPython. Raspberry Pi's official site contains very well documented instructions on how you can set up your device with both languages. This said, from my own experimentation and research MicroPython seems to be the most user-friendly option at present (particularly if you're running a Windows OS).
 Watching this [video](https://www.youtube.com/watch?v=5l3W-brnO7E) on the subject may provide more clarification as to why I personally drew this conclusion.
 
+## Mini Projects 
+
+### [LED Blink](https://github.com/Steven-Klavins/Pico-Experimentation/tree/main/LED%20Blink)
