@@ -16,3 +16,4 @@ Watching this [video](https://www.youtube.com/watch?v=5l3W-brnO7E) on the subjec
 ## Mini Projects 
 
 ### [LED Blink](https://github.com/Steven-Klavins/Pico-Experimentation/tree/main/LED%20Blink)
+### [Chasing LED's](https://github.com/Steven-Klavins/Pico-Experimentation/tree/main/Chasing%20LED's)
