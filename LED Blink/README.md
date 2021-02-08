@@ -3,9 +3,9 @@
 Perhaps one of the simplest projects you can build for the Pico is the LED Blink project. This small snippet of code enables the board to intermittently flash the onboard LED on and off.
 
 ## In order to complete this project, you will need the following: 
-1 x Raspberry Pi Pico
+**1 x** Raspberry Pi Pico
 
-1 x Micro USB cable
+**1 x** Micro USB cable
 
 ### Before running please follow the [official documentation](https://www.raspberrypi.org/documentation/pico/getting-started/) on how to install MicroPython to your device. 
 
