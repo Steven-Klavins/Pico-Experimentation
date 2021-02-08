@@ -30,4 +30,7 @@ First, we assign our pin for use with `led = Pin(25, Pin.OUT)` For our use case,
 `while True :` is where our loop begins (true always being true this loop will run indefinitely unless changed). Within the loop, we toggle the pin on with `led.toggle()`, suspend the executing code for 0.5 seconds with `sleep(0.5)` and the cycle continues. 
 
 
+<p align="center">
+<img src="project_image.jpg" alt="drawing" width="600"/>
+</p>
 
