@@ -11,6 +11,6 @@ Perhaps one of the simplest projects you can build for the Pico is the LED Blink
 ## How to run
 **1.** Hold the Pico's onboard power button and connect it to your computer via a micro USB cable, your device should show up as removable storage. 
 
-**2.** Download the <a id="raw-url" href="https://raw.githubusercontent.com/Steven-Klavins/Pico-Experimentation/main/LED%20Blink/main.py">code</a>, extract and copy it to your device (ensure the file name remains 'main.py' as it will fail to run in the event its name something else)
+**2.** Download the <a id="raw-url" href="https://raw.githubusercontent.com/Steven-Klavins/Pico-Experimentation/main/LED%20Blink/main.py">code</a> and copy it to your device (ensure the file name remains 'main.py' as it will fail to run in the event its name something else)
 
 **3.** Tap the power button on your Pico board to soft reboot and you're done! The onboard LED will now continuously flash on and off every 0.5 seconds.
